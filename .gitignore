@@ -1,0 +1,36 @@
+sublime-project
+sublime-workspace
+tmp
+snapshots
+project/project
+project/target
+target
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+target/
+.cache-main
+.cache-tests
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# MAC OSX
+.DS_Store
+.DS_Store/
+/bin/
+
