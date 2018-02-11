@@ -14,7 +14,7 @@ class Bug extends {
 } with Creature
 
 class Cow extends Creature {
-  override lazy val range = 4
+//  override lazy val range = 4
 }
 
 object Main extends App {
